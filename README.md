@@ -171,5 +171,3 @@ ConQR started as a 5-minute observation at a concert and became a full-stack pro
 
 *Made with curiosity, caffeine, and a stubborn refusal to accept scams.* ☕
 
-</div>
-# ConnQR
